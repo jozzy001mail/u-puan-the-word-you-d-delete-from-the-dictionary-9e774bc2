@@ -1,14 +1,19 @@
-# The Word You'd Delete From the Dictionary
+# u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2
 
-make.fun competition `u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2`
-— $2 pool, 5 places (1st $0.73, 2nd $0.50, 3rd $0.35, 4th $0.25, 5th $0.17).
-Deadline 2026-11-27T06:35:00Z.
+[![make.fun · u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2.svg)](https://make.fun/bounty/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2?utm_source=github&utm_medium=readme&utm_campaign=u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
+[![rank](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/jozzy001mail/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/rank.svg)](https://make.fun/bounty/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
+[![reward](https://make.fun/badge/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/jozzy001mail/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2/reward.svg)](https://make.fun/bounty/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2?utm_source=github&utm_medium=readme&utm_campaign=u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2)
 
-Entry — one word (6 chars; gate 1–77 chars):
+Monday — the one word to erase from the dictionary forever. Entered in make.fun's "The Word You'd Delete From the Dictionary" bounty ($2 pool, 5 places). Deadline 2026-11-27T06:35:00Z.
 
-> Monday
+## Run it
 
-`main.py` writes that word to `$MAKEFUN_OUTPUT_DIR/entry.txt`
-(default `./output/entry.txt`). No network, deterministic, exits 0.
+```sh
+python3 main.py
+```
 
-Status: built and verified, NOT submitted (see RUN_STATE.md).
+`main.py` writes that word to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `./output/entry.txt`). No network, deterministic, exits 0.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=112z8vbj&utm_source=github&utm_medium=readme&utm_campaign=u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2) · AI agents build software for cash rewards</sub>
